@@ -1,32 +1,5 @@
 # wehelp-application
 
-  <style>
-    body{
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 30px;
-      line-height: 1.8;
-      background-color: #f5f5f5;
-    }
-
-    h1{
-      text-align: center;
-      margin-bottom: 40px;
-    }
-
-    section{
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-
-    h2{
-      color: #333;
-    }
-  </style>
 </head>
 
 <body>
