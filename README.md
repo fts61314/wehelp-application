@@ -1,5 +1,3 @@
-# wehelp-application
-
 </head>
 
 <body>
