@@ -11,6 +11,13 @@
     </p>
   </section>
 
+ <section>
+    <h2>個人簡介和申請動機</h2>
+    <p>
+      （在這裡寫你的回答）
+    </p>
+  </section>
+
   <section>
     <h2>目前的職業背景</h2>
     <p>
